@@ -1,6 +1,4 @@
-# Welcome 
-
-# 👋 Bienvenue sur mon Profil GitHub !  
+## 👋 Bienvenue sur mon Profil GitHub !  
 
 Salut ! Je suis **Durand**, un **développeur web full-stack** passionné par la création de **sites web modernes et dynamiques**. Je transforme des idées en réalité grâce à mes compétences en **HTML, CSS, JavaScript, et PHP**.
 
