@@ -34,13 +34,13 @@ Voici un aperçu de mes compétences dans les différentes technologies que j'ut
 
 Voici quelques projets récents dont je suis particulièrement fier :
 
-#### [💹 Site de Trading](https://github.com/monprojet)
+#### [💹 Site de Trading]()
 Un site web de trading interactif où les utilisateurs peuvent investir et parrainer des amis pour gagner des récompenses. Le site intègre un système de gestion des dépôts et de parrainage.
 
-#### [📝 Formulaire d'inscription 3D](https://github.com/monprojet2)
+#### [📝 Formulaire d'inscription 3D]()
 Un formulaire d'inscription avec effet 3D, extrêmement **responsive**, développé en HTML/CSS/JavaScript pour offrir une expérience utilisateur immersive.
 
-#### [⚽ Matchs de Football du Jour](https://github.com/monprojet3)
+#### [⚽ Matchs de Football du Jour]()
 Application web permettant de suivre les **matchs de football en direct**. La page offre des fonctionnalités de recherche d'équipes, pagination dynamique, et affichage des matchs avec leurs logos.
 
 ---
@@ -73,7 +73,7 @@ Voici quelques-unes des technologies et outils que j'utilise régulièrement pou
 Je suis disponible pour des collaborations, des projets freelance ou tout simplement pour discuter de technologie ! N'hésite pas à me contacter via les moyens suivants :
 
 - **Email** : [djoukam756@gmail.com](mailto:djoukam756@gmail.com)
-- **LinkedIn** : [linkedin.com/in/durand](https://linkedin.com/in/durand)
-- **GitHub** : [github.com/Durand](https://github.com/Durand)
+- **WhatsApp** : [linkedin.com/in/durand](https://wa.me/+237651104356)
+- **GitHub** : [github.com/Durand](https://github.com/Durand756)
 
 Merci d'avoir visité mon profil GitHub ! 🙌
