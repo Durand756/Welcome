@@ -60,7 +60,7 @@ Voici quelques-unes des technologies et outils que j'utilise régulièrement pou
 ### 📈 Mes Statistiques GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Durand&show_icons=true&theme=radical&count_private=true" alt="Statistiques GitHub de Durand"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Durand756&show_icons=true&theme=radical&count_private=true" alt="Statistiques GitHub de Durand"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durand&layout=compact&langs_count=8&theme=radical" alt="Langages les plus utilisés"/>
 </p>
 
