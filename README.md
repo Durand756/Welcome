@@ -8,7 +8,7 @@ Salut ! Je suis **Durand**, un **développeur web full-stack** passionné par la
 
 Je suis un développeur motivé par la résolution de problèmes, toujours en quête de nouvelles technologies pour optimiser mes projets. Mon objectif est de livrer des expériences utilisateur uniques à travers des interfaces soignées, ergonomiques et performantes.
 
-- 🌍 Je suis basé à **Cameroun**
+- 🌍 Je suis basé au **Cameroun**
 - 🚀 Actuellement, je travaille sur des **projets de trading** et des **applications web interactives**.
 - 💡 Je suis en constante formation pour améliorer mes compétences en **développement full-stack**.
 - 💬 Contactez-moi pour des collaborations ou des discussions sur **la technologie** et **les tendances du web**.
@@ -71,7 +71,7 @@ Voici quelques-unes des technologies et outils que j'utilise régulièrement pou
 Je suis disponible pour des collaborations, des projets freelance ou tout simplement pour discuter de technologie ! N'hésite pas à me contacter via les moyens suivants :
 
 - **Email** : [djoukam756@gmail.com](mailto:djoukam756@gmail.com)
-- **WhatsApp** : [linkedin.com/in/durand](https://wa.me/+237651104356)
+- **WhatsApp** : [WhatsApp/Durand](https://wa.me/+237651104356)
 - **GitHub** : [github.com/Durand](https://github.com/Durand756)
 
 Merci d'avoir visité mon profil GitHub ! 🙌
