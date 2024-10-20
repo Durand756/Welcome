@@ -1,4 +1,5 @@
-![IMG-20240928-WA0015](https://github.com/user-attachments/assets/58d944a2-8a3a-4954-a45f-5e1294205712)
+![Durand-Dev](https://github.com/user-attachments/assets/34a12b53-1ad4-4629-8613-b5fbca631171)
+
 ## 👋 Bienvenue sur mon Profil GitHub !  
 
 Salut ! Je suis **Durand**, un **développeur web full-stack** passionné par la création de **sites web modernes et dynamiques**. Je transforme des idées en réalité grâce à mes compétences en **HTML, CSS, JavaScript, et PHP**.
